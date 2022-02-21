@@ -1,0 +1,6 @@
+# Avoid you projects being littered with annoying files!
+#################################
+##                             ##
+#################################
+
+node_modules/
